@@ -1,0 +1,25 @@
+{
+  "name": "dahye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dahye73/test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dahye73/test-project/issues"
+  },
+  "homepage": "https://github.com/Dahye73/test-project#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0"
+  }
+}
